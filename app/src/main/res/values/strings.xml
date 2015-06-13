@@ -1,6 +1,9 @@
 <resources>
+
     <string name="app_name">DailySelfieApp</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="say_cheese">Say cheese!</string>
+    <string name="intent_received_string">Got The Intent</string>
+
 </resources>
